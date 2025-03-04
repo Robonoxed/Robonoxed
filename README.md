@@ -1,7 +1,7 @@
 ## Hi there 👋
-# I am a person who loves everything to do with computers
-# I am terrible at programming
-# Probably should learn but lazy
+I am a person who loves everything to do with computers
+I am terrible at programming
+Probably should learn but lazy
 
 <!--
 **Robonoxed/Robonoxed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
